@@ -1,0 +1,11 @@
+{
+  "name": "shopware-v6-store-api-client",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "generate": "openapi-generator-cli generate -i storeapi.json -g php -o ./ --invoker-package ServeXS\\Shopware\\v6\\Store --artifact-version 1.0 --git-user-id servexs --git-repo-id shopware-v6-store-api-client"
+  },
+  "dependencies": {
+    "@openapitools/openapi-generator-cli": "^2.4.26"
+  }
+}

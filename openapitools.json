@@ -1,0 +1,7 @@
+{
+  "$schema": "https://stoplight.io/api/v1/projects/shopware/store-api/nodes/storeapi.json",
+  "spaces": 2,
+  "generator-cli": {
+    "version": "5.2.1"
+  }
+}

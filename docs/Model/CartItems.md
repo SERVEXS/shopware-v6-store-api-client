@@ -1,0 +1,10 @@
+# # CartItems
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**api_alias** | **string** | Alias which can be used to restrict response fields. For more information see [includes](https://shopware.stoplight.io/docs/store-api/docs/concepts/search-queries.md#includes-apialias). | [optional]
+**items** | [**\ServeXS\Shopware\v6\Store\Model\LineItem[]**](LineItem.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
